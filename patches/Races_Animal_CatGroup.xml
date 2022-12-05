@@ -2,20 +2,15 @@
 
 <Patch>
 	<Operation Class="PatchOperationAdd">
-		<success>Always</success>
-		<operations>
-			<li Class="PatchOperationAdd">
-			<xpath>/ThingDefs/ThingDef[defName = "Husky"]/description</xpath>
-				<value>
-					<comps>
-						<li Class="CompProperties_Shearable">
-							<woolDef>WoolHusky</woolDef>
-							<shearIntervalDays>10</shearIntervalDays>
-							<woolAmount>45</woolAmount>
-						</li>
-					</comps>
-				</value>
-			</li>
-		</operations>
+		<xpath>/Defs/ThingDef[defName="Husky"]</xpath>
+			<value>
+				<comps>
+					<li Class="CompProperties_Shearable">
+						<woolDef>WoolHusky</woolDef>
+						<shearIntervalDays>1</shearIntervalDays>
+						<woolAmount>60</woolAmount>
+					</li>
+				</comps>
+			</value>
 	</Operation>
 </Patch>
