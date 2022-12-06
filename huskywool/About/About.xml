@@ -2,7 +2,7 @@
 <ModMetaData>
 	<name>Harvestable Husky Wool</name>
 	<author>Erinyes</author>
-	<PackageID>Erinyes.HuskyWool</Package.ID>
+	<packageID>Erinyes.HuskyWool</packageID>
 	<description>V1.4
     This mod adds husky wool as a harvestable resource. Anyone who's owned a husky will understand.
 		</description>
