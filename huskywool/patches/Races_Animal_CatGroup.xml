@@ -7,7 +7,7 @@
 				<comps>
 					<li Class="CompProperties_Shearable">
 						<woolDef>WoolHusky</woolDef>
-						<shearIntervalDays>1</shearIntervalDays>
+						<shearIntervalDays>7</shearIntervalDays>
 						<woolAmount>60</woolAmount>
 					</li>
 				</comps>
