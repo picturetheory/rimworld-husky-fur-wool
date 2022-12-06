@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Harvestable Husky Wool</name>
-	<author>Erinyes</author>
+	<name>Test Mod - Harvestable Husky Fur</name>
+	<author>The Modder</author>
+	<targetVersion>0.1.0</targetVersion>
 	<description>V1.4
-    This mod adds husky wool as a harvestable resource. Anyone who's owned a husky will understand.
+    This mod adds husky fur wool as a harvestable resource. Anyone who's owned a husky will understand.
 		</description>
 	<supportedVersions>
         <li>1.1</li>

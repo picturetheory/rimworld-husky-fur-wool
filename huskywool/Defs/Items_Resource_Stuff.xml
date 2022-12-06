@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+	<ThingDef ParentName="WoolBase">
+    <defName>WoolHusky</defName>
+    <label>husky wool</label>
+    <description>Ever wanted to use all that fluffy white shit on the floor for something? Now you can!</description>
+    <possessionCount>30</possessionCount>
+    <statBases>
+      <MarketValue>2.0</MarketValue>
+	  <StuffPower_Insulation_Cold>30</StuffPower_Insulation_Cold>
+      <StuffPower_Insulation_Heat>16</StuffPower_Insulation_Heat>
+    </statBases>
+    <stuffProps>
+      <color>(219,214,209)</color>
+      <commonality>0.24</commonality>
+    </stuffProps>
+    <graphicData>
+      <color>(219,214,209)</color>
+    </graphicData>
+  </ThingDef>
+
+</Defs>
